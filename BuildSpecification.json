@@ -1,0 +1,122 @@
+[
+    {
+        "Project":"Components\\Action VIs\\ActionVI_Error CodeID\\ActionVI_Error CodeID.lvproj",
+        "BuildSpecification":"Plugin Distribution",
+        "Destination":"Plugins\\Action VIs\\ActionVI_Error CodeID.llb"
+    },
+    {
+        "Project":"Components\\Action VIs\\ActionVI_Numeric to String\\ActionVI_Numeric to String.lvproj",
+        "BuildSpecification":"Plugin Distribution",
+        "Destination":"Plugins\\Action VIs\\ActionVI_Numeric to String.llb"
+    },
+    {
+        "Project":"Components\\Action VIs\\ActionVI_String to Numeric\\ActionVI_String to Numeric.lvproj",
+        "BuildSpecification":"Plugin Distribution",
+        "Destination":"Plugins\\Action VIs\\ActionVI_String to Numeric.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Camera Manager\\Camera Manager.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\Camera Manager.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Data Collector\\Data Collector.lvproj",
+        "BuildSpecification":"DC Report Model Interface Baseclass",
+        "Destination":"Components\\Modules\\Data Collector Report Models\\Baseclass\\DC Report Model Interface Baseclass.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Data Collector\\Data Collector.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\Data Collector.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Data Collector Report Models\\External\\JSON\\DC - JSON.lvproj",
+        "BuildSpecification":"DC - JSON plugin module",
+        "Destination":"Plugins\\Modules\\Data Collector Report Models\\External\\JSON.lvlibp"
+    },
+    {
+        "Project":"Components\\Modules\\Data Collector Report Models\\External\\Local SQL\\DC - Local SQL.lvproj",
+        "BuildSpecification":"DC - Local SQL plugin module",
+        "Destination":"Plugins\\Modules\\Data Collector Report Models\\External\\Local SQL.lvlibp"
+    },
+    {
+        "Project":"Components\\Modules\\DIO Manager\\DIO Manager.lvproj",
+        "BuildSpecification":"DIO Device Baseclass",
+        "Destination":"Components\\Modules\\DIO Devices\\Baseclass\\Baseclass.llb"
+    },
+    {
+        "Project":"Components\\Modules\\DIO Manager\\DIO Manager.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\DIO Manager.llb"
+    },
+    {
+        "Project":"Components\\Modules\\DIO Devices\\NI 9375\\9375.lvproj",
+        "BuildSpecification":"DIO 9375 plugin module",
+        "Destination":"Plugins\\Modules\\DIO Devices\\9375.lvlibp"
+    },
+    {
+        "Project":"Components\\Modules\\DIO Devices\\PCI-6520\\PCI-6520.lvproj",
+        "BuildSpecification":"DIO PCI-6520 plugin module",
+        "Destination":"Plugins\\Modules\\DIO Devices\\PCI-6520.lvlibp"
+    },
+    {
+        "Project":"Components\\Modules\\DIO Devices\\PCI-6528\\PCI-6528.lvproj",
+        "BuildSpecification":"DIO PCI-6528 plugin module",
+        "Destination":"Plugins\\Modules\\DIO Devices\\PCI-6528.lvlibp"
+    },
+    {
+        "Project":"Components\\Modules\\DIO Devices\\Simulator\\Simulator.lvproj",
+        "BuildSpecification":"DIO Simulator plugin module",
+        "Destination":"Plugins\\Modules\\DIO Devices\\Simulation.lvlibp"
+    },
+    {
+        "Project":"Components\\Modules\\DIO Devices\\USB-6501\\USB-6501.lvproj",
+        "BuildSpecification":"DIO USB-6501 plugin module",
+        "Destination":"Plugins\\Modules\\DIO Devices\\USB-6501.lvlibp"
+    },
+    {
+        "Project":"Components\\Modules\\DIO Devices\\USB-6525\\USB-6525.lvproj",
+        "BuildSpecification":"DIO USB-6525 plugin module",
+        "Destination":"Plugins\\Modules\\DIO Devices\\USB-6525.lvlibp"
+    },
+    {
+        "Project":"Components\\Modules\\Exception Handler\\Exception Handler.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\Exception Handler.llb"
+    },
+    {
+        "Project":"Components\\Modules\\OPC Gateway\\OPC Gateway.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\OPC Gateway.llb"
+    },
+    {
+        "Project":"Components\\Modules\\QS-STAT Manager\\QS-STAT Manager.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\QS-STAT Manager.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Serial COM Handler\\Serial COM Handler.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\Serial COM Handler.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Test Data View\\Test Data View.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\Test Data View.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Vision System\\Vision System - Main.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\Vision System.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Vision Test Executer\\Vision Test Executer.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\Vision Test Executer.llb"
+    },
+    {
+        "Project":"Components\\Modules\\Watchdog\\Watchdog.lvproj",
+        "BuildSpecification":"Module Plugin Distribution",
+        "Destination":"Plugins\\Modules\\Watchdog.llb"
+    }
+]
