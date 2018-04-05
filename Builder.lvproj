@@ -30,7 +30,7 @@
 		<Item Name="timer.vi" Type="VI" URL="../timer.vi"/>
 		<Item Name="timer_string.vi" Type="VI" URL="../timer_string.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
-		<Item Name="ZipPlugins.vi" Type="VI" URL="../../../../../temp/Workspace/ZipPlugins.vi"/>
+		<Item Name="ZipPlugins.vi" Type="VI" URL="../ZipPlugins.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Array of VData to VArray__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array of VData to VArray__ogtk.vi"/>
