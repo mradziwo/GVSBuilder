@@ -30,6 +30,7 @@
 		<Item Name="SVN_Checkout.vi" Type="VI" URL="../SVN_Checkout.vi"/>
 		<Item Name="SVN_CleanAllUnversioned.vi" Type="VI" URL="../SVN_CleanAllUnversioned.vi"/>
 		<Item Name="SVN_copy.vi" Type="VI" URL="../SVN_copy.vi"/>
+		<Item Name="SVN_credentials.vi" Type="VI" URL="../SVN_credentials.vi"/>
 		<Item Name="SVN_getInfo.vi" Type="VI" URL="../SVN_getInfo.vi"/>
 		<Item Name="SVN_prepareCodebase.vi" Type="VI" URL="../SVN_prepareCodebase.vi"/>
 		<Item Name="SVN_Revert.vi" Type="VI" URL="../SVN_Revert.vi"/>
