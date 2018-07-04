@@ -19,6 +19,7 @@
 		<Item Name="BuildProcess.vi" Type="VI" URL="../BuildProcess.vi"/>
 		<Item Name="buildTagURL.vi" Type="VI" URL="../buildTagURL.vi"/>
 		<Item Name="chceksystem.vi" Type="VI" URL="../chceksystem.vi"/>
+		<Item Name="DeleteFolders.vi" Type="VI" URL="../DeleteFolders.vi"/>
 		<Item Name="GetLatestVersion.vi" Type="VI" URL="../GetLatestVersion.vi"/>
 		<Item Name="getRevision.vi" Type="VI" URL="../getRevision.vi"/>
 		<Item Name="LogAddLine.vi" Type="VI" URL="../LogAddLine.vi"/>
@@ -32,12 +33,14 @@
 		<Item Name="SVN_copy.vi" Type="VI" URL="../SVN_copy.vi"/>
 		<Item Name="SVN_credentials.vi" Type="VI" URL="../SVN_credentials.vi"/>
 		<Item Name="SVN_getInfo.vi" Type="VI" URL="../SVN_getInfo.vi"/>
+		<Item Name="SVN_ls.vi" Type="VI" URL="../SVN_ls.vi"/>
 		<Item Name="SVN_prepareCodebase.vi" Type="VI" URL="../SVN_prepareCodebase.vi"/>
 		<Item Name="SVN_Revert.vi" Type="VI" URL="../SVN_Revert.vi"/>
 		<Item Name="timer.vi" Type="VI" URL="../timer.vi"/>
 		<Item Name="timer_string.vi" Type="VI" URL="../timer_string.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
 		<Item Name="UpdateVersiofile.vi" Type="VI" URL="../UpdateVersiofile.vi"/>
+		<Item Name="WorspacePathGenerator.vi" Type="VI" URL="../WorspacePathGenerator.vi"/>
 		<Item Name="ZipPlugins.vi" Type="VI" URL="../ZipPlugins.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
@@ -363,6 +366,7 @@
 				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
+				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="Get VI Library File Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get VI Library File Info.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
@@ -442,6 +446,7 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Set VI Library File Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Set VI Library File Info.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Temp Backup File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Temp Backup File.vi"/>
